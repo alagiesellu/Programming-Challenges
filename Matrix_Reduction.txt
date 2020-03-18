@@ -1,0 +1,3 @@
+Write a progam that take in a matrix as a multi dimentional array and to reduced row echelon form.
+
+Your solution is do calculations using rational numbers.
